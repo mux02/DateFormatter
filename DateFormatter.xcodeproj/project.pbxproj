@@ -11,6 +11,7 @@
 		1EA5DFC1296E1D4A006B4548 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EA5DFC0296E1D4A006B4548 /* ContentView.swift */; };
 		1EA5DFC3296E1D4B006B4548 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EA5DFC2296E1D4B006B4548 /* Assets.xcassets */; };
 		1EA5DFC6296E1D4B006B4548 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EA5DFC5296E1D4B006B4548 /* Preview Assets.xcassets */; };
+		1EB88E9E296F80C40018B4AE /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EB88E9D296F80C40018B4AE /* ColorPickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1EA5DFC0296E1D4A006B4548 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1EA5DFC2296E1D4B006B4548 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1EA5DFC5296E1D4B006B4548 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1EB88E9D296F80C40018B4AE /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				1EA5DFBE296E1D4A006B4548 /* DateFormatterApp.swift */,
 				1EA5DFC0296E1D4A006B4548 /* ContentView.swift */,
 				1EA5DFC2296E1D4B006B4548 /* Assets.xcassets */,
+				1EB88E9D296F80C40018B4AE /* ColorPickerView.swift */,
 				1EA5DFC4296E1D4B006B4548 /* Preview Content */,
 			);
 			path = DateFormatter;
@@ -139,6 +142,7 @@
 			files = (
 				1EA5DFC1296E1D4A006B4548 /* ContentView.swift in Sources */,
 				1EA5DFBF296E1D4A006B4548 /* DateFormatterApp.swift in Sources */,
+				1EB88E9E296F80C40018B4AE /* ColorPickerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
